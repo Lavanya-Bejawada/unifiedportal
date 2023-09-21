@@ -1,0 +1,37 @@
+
+.dbcards1{
+
+    color: rgb(38, 130, 196);
+}
+
+.dbcard12{
+
+    color: orangered;
+
+}
+.dbc1{ border-radius: 15px;
+
+}
+
+.dbc2{
+    height: 20px; 
+    width: 60px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+   
+   
+}
+.dbc3{
+    max-width: 900px;
+}
+
+.dbc4{
+    background-color: #e5e9ee;
+}
+.pgcolor{
+    background-color: rgb(5, 5, 85);
+  }
+  .dbbg{
+    background-color: #e5e9ee;
+  }
